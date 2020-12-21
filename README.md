@@ -2,7 +2,7 @@
 
 ## Storage of presentations
 
-All presentations and poster are collected here.
+All presentations and posters are collected here.
 
 ## About conference
 
