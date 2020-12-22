@@ -5,8 +5,9 @@
 All presentations and posters are collected here.
 
 Poster session
-==============
-[Investigating the flow conditioners working regimes efficiency using numerical simulations](posters/01_Vodeniktov_ISPRAS_OPEN_2020.pdf)
+--------------
+1. [Investigating the flow conditioners working regimes efficiency using numerical simulations](posters/01_Vodeniktov_ISPRAS_OPEN_2020.pdf)
+2. [](posters/02_Ermakov_ISPRAS_OPEN_2020.pdf)
 
 ## About conference
 
