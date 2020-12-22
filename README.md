@@ -1,5 +1,9 @@
 # Open source software for computational mechanics 2020 (OSS4CM) - Section of Ivannikov ISP RAS OPEN Conference 2020
 
+## About conference
+
+The OSS4CM section of Ivannikov ISP RAS Open Conference is dedicated to the usage and development of free software for scientific and industrial problems of continuum mechanics as well as related fields. There are talks dedicated to OpenFOAM, Code_Aster, SU2, SALOME, MFEM, ParaView and other.
+
 ## Storage of presentations
 
 All presentations and posters are collected here.
@@ -18,6 +22,3 @@ Poster session
 10. [Применение метода КАБАРЕ для треугольных плоских ячеек в OpenFOAM](posters/10_Zaitsev_ISPRAS_OPEN_2020.pdf)
 11. [Исследование изменения собственных частот колебаний резервуара при разном уровне заполнения жидкостью с использованием СПО Code_Aster](posters/11_Kashfutdinov_ISPRAS_OPEN_2020.pdf)
 
-## About conference
-
-The OSS4CM section of Ivannikov ISP RAS Open Conference is dedicated to the usage and development of free software for scientific and industrial problems of continuum mechanics as well as related fields. There are talks dedicated to OpenFOAM, Code_Aster, SU2, SALOME, MFEM, ParaView and other.
