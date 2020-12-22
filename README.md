@@ -14,7 +14,7 @@ Poster session
 6. [The fuzzy-origin-destination matrix estimation for planning air traffic ](posters/06_Sudakov_ISPRAS_OPEN_2020.pdf)
 7. [Разработка решателя snowYadeFoam для моделирования динамики снежных частиц](posters/07_Romanova_ISPRAS_OPEN_2020.pdf)
 8. [Моделирование процесса запуска сопла и истечения струи в область низкого давления](posters/08_Kiryushina_ISPRAS_OPEN_2020.pdf)
-9. [Numerical simulation of internal wave attractors in stratified or rotating fluids] (posters/09_Sibgatullin_ISPRAS_OPEN_2020.pdf)
+9. [Numerical simulation of internal wave attractors in stratified or rotating fluids](posters/09_Sibgatullin_ISPRAS_OPEN_2020.pdf)
 10. [Применение метода КАБАРЕ для треугольных плоских ячеек в OpenFOAM](posters/10_Zaitsev_ISPRAS_OPEN_2020.pdf)
 11. [Исследование изменения собственных частот колебаний резервуара при разном уровне заполнения жидкостью с использованием СПО Code_Aster](posters/11_Kashfutdinov_ISPRAS_OPEN_2020.pdf)
 
